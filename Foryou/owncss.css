@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.content-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh; /* Membuat wrapper menyesuaikan tinggi viewport */
+  padding: 80px 0; /* Menambahkan gap di atas dan bawah */
+}
+
+
+body, html {
+  height: 100%;
+}
+
+.login {
+  text-align: center; 
+}
+
+footer {
+  margin-top: 20px; 
+}
+
+
+.header1{
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    
+  }
+
+  .bckg{
+    background: rgb(253,198,255);
+    background: linear-gradient(31deg, rgba(253,198,255,1) 20%, rgba(129,163,255,1) 83%);
+}
+
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-items: auto;
+    text-align: auto;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+ 

@@ -1,0 +1,17 @@
+footer {
+    padding: 8px;
+    text-align: center;
+    color: white;
+  }
+
+  .header1{
+    font-family: "Nunito", sans-serif;
+  }
+
+  .header2{
+    font-family: "Caveat", cursive;
+  }
+
+  .hc{
+    background-color: #5FBDFF;
+  }
